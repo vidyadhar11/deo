@@ -1,2 +1,0 @@
-# deo
-Fully loaded
